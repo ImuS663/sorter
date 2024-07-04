@@ -5,6 +5,10 @@ import "github.com/ImuS663/sorter"
 type Gnome[T sorter.Number] struct{}
 
 func (g Gnome[T]) Sort(arr []T) []T {
+	if len(arr) <= 1 {
+		return arr
+	}
+
 	i := 0
 
 	for i < len(arr) {
