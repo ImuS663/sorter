@@ -1,6 +1,8 @@
 # sorter
 
-`sorter` is a library designed to provide efficient and flexible sorting algorithms. It supports a variety of sorting techniques, making it a versatile tool for different use cases, whether educational or practical.
+`sorter` is a library designed to provide efficient and flexible sorting algorithms. It supports a variety of sorting techniques, making it a versatile tool for different use cases, whether educational or practical. This library was created for my educational purposes, and it serves as a resource for learning and exploring sorting algorithms.
+
+**Disclaimer**: This library is primarily intended for educational use and may not be optimized for production environments. Use it at your own risk in practical applications.
 
 ## Installation
 
